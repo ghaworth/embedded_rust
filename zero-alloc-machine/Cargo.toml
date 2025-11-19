@@ -1,0 +1,8 @@
+[package]
+name = "zero-alloc-machine"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+panic-halt = "0.2"
+cortex-m-rt = "0.7"
